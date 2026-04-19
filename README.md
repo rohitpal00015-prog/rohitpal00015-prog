@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Rohit Pal! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /></h1>
+<h1 align="center">Hi there, I'm Rohit Pal! <img src=" https://media.giphy.com/media/hvRJCLFzcasr14ia7z/giphy.gif" alt="Waving Hand" width="35" height="35"/></h1>
 
 <p align="center">
   <a href="https://github.com/rohitpal00015-prog">
