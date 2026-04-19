@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL_HERE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="YOUR_INSTAGRAM_URL_HERE"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.linkedin.com/in/rohit-pal-98230131a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/rohitvaan0/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
 ---
@@ -21,6 +21,12 @@ I'm a 2nd-year **B.Tech CSE** student at United Institute of Technology, working
 - 💻 Live Project: Founder & active developer of **Prayagraj Rooms**
 - 🌱 I’m currently exploring: Advanced AI API integrations & scalable MERN architecture
 - 💬 Ask me about: **MERN Stack, Python, Data Science, and Startup Ideas**
+
+---
+
+### 🏆 Achievements & Hackathons
+- 🚀 **Finalist:** SRM BUILDS 7.0 Hackathon (Sonipat)
+- 💡 **Finalist:** UHACK 4.0 Hackathon
 
 ---
 
