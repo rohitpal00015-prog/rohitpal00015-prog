@@ -1,43 +1,48 @@
-Hi, I'm Rohit 👋
+<h1 align="center">Hi there, I'm Rohit Pal! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /></h1>
 
----
+<p align="center">
+  <a href="https://github.com/rohitpal00015-prog">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=B.Tech+CSE+Student;MERN+Stack+Developer;AI+%26+Data+Science+Enthusiast;Entrepreneur+%26+Innovator" alt="Typing SVG" />
+  </a>
+</p>
 
-### 👨‍💻 Rohit Pal
-
-**B.Tech CSE Student | MERN Stack Developer | AI Enthusiast | Entrepreneur**
+<p align="center">
+  <a href="YOUR_LINKEDIN_URL_HERE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="YOUR_INSTAGRAM_URL_HERE"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+</p>
 
 ---
 
 ### 🚀 About Me
 
-I'm **Rohit Pal**, a 2nd-year **B.Tech CSE** student at United Institute of Technology, Prayagraj. I work at the intersection of **Full-Stack Web Development, Artificial Intelligence**, and scalable tech solutions. 
+I'm a 2nd-year **B.Tech CSE** student at United Institute of Technology, working at the intersection of **Full-Stack Web Development, Artificial Intelligence**, and scalable tech solutions. I am passionate about creating impactful platforms, from building intelligent AI assistants to developing hyperlocal systems that empower communities.
 
-I am passionate about solving real-world problems and creating impactful platforms. Whether it's building intelligent AI assistants or developing hyperlocal platforms to empower communities, I enjoy turning ideas into live, robust products.
-
----
-
-### 🧠 What I Do
-
-* **Full-Stack Development:** Specialized in the **MERN Stack** (MongoDB, Express, React, Node.js) for building scalable web applications.
-* **Artificial Intelligence:** Exploring AI integration, API development (working with models like Gemini), and building custom AI assistants (like Zynoq).
-* **Startup & Real-World Projects:** Founder and active developer of practical solutions like **Prayagraj Rooms** (a live hyperlocal rental platform) and **Vindhya Millets**.
-* **Data Science:** Certified in Data Science with Python, applying analytical skills to backend logic and problem-solving.
+- 🔭 I’m currently building: **Zynoq** (Custom AI Assistant) & **Vindhya Millets**
+- 💻 Live Project: Founder & active developer of **Prayagraj Rooms**
+- 🌱 I’m currently exploring: Advanced AI API integrations & scalable MERN architecture
+- 💬 Ask me about: **MERN Stack, Python, Data Science, and Startup Ideas**
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-* **Languages:** JavaScript, Python, C++, HTML/CSS
-* **Frontend:** React.js, Tailwind CSS
-* **Backend:** Node.js, Express.js
-* **Databases:** MongoDB
-* **Tools/Others:** Git/GitHub, AI APIs, Data Science tools
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,python,cpp,html,css,react,tailwind,nodejs,express,mongodb,git,github,vscode,postman&perline=7" alt="Rohit's Skills" />
+  </a>
+</p>
 
 ---
 
-### 📬 Connect with me
+### 📊 GitHub Stats
 
-Let's discuss tech, startups, or collaborate on innovative projects!
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rohitpal00015-prog&show_icons=true&theme=radical&hide_border=true" alt="Rohit's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitpal00015-prog&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</div>
 
-* **LinkedIn:** [Your LinkedIn Profile URL Here]
-* **Instagram:** [Your Instagram URL Here]
+<br>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rohitpal00015-prog&label=Profile%20Views&color=0e75b6&style=flat" alt="Visitor Count" />
+</p>
