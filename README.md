@@ -40,10 +40,9 @@ I'm a 3rd-year **B.Tech Computer Science & Engineering** student at **United Ins
 - 💡 **Innovation & Startups:** Founder & active builder of **Prayagraj Rooms**, **Zynoq** (Custom AI Assistant), and **Vindhya Millets**.
 - 🏆 **Hackathons & Competitions:**
   - 🌟 **Finalist:** SRM BUILDS 7.0 Hackathon (Sonipat)
-  - 💡 **Finalist:** UHACK 4.0 Hackathon
   - 🚀 **SIH '26 Innovator:** Built *ShilpSetu* for Smart India Hackathon (PS-26090)
 - 🔭 **Current Focus:** Multimodal AI pipelines (Groq, Gemini API, Whisper), offline-first architectures, and scalable web apps.
-- 💬 **Ask me about:** Python, FastAPI, React/Next.js, MERN stack, Open Source contributions, and hackathon ideation.
+- 💬 **Ask me about:** Python, FastAPI, React/Next.js, Open Source contributions, and hackathon ideation.
 
 ---
 
