@@ -1,14 +1,14 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Hi%20there,%20I'm%20Rohit%20Pal%20👋&fontSize=38&fontAlignY=38&desc=B.Tech%20CSE%20%7C%20Full-Stack%20%26%20Python%20Developer%20%7C%20Open%20Source%20Contributor&descFontSize=18&descAlignY=62&fontColor=ffffff" width="100%" />
-</div>
-
-<p align="center">
+  <h1>Hi there, I'm Rohit Pal! 👋</h1>
+  <p>
+    <strong>🎓 B.Tech CSE @ UIT Prayagraj &nbsp;|&nbsp; 💻 Full-Stack & Python Developer &nbsp;|&nbsp; 🌐 Open Source Contributor @ Wikimedia</strong>
+  </p>
   <a href="https://github.com/rohitpal00015-prog">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2196F3&center=true&vCenter=true&width=650&lines=B.Tech+CSE+@+UIT+Prayagraj;Full-Stack+%26+Python+Developer;Open+Source+Contributor+@+Wikimedia;Smart+India+Hackathon+'26+Innovator;Building+AI+%26+Hyperlocal+Solutions" alt="Typing SVG" />
   </a>
-</p>
+</div>
 
-<div align="center">
+<div align="center" style="margin-top: 10px;">
   <a href="https://rohitpal.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Live_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
@@ -26,7 +26,7 @@
   </a>
 </div>
 
-<p align="center">
+<p align="center" style="margin-top: 10px;">
   <img src="https://komarev.com/ghpvc/?username=rohitpal00015-prog&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Visitor Count" />
 </p>
 
