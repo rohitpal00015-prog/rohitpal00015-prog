@@ -34,7 +34,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a 2nd-year **B.Tech Computer Science & Engineering** student at **United Institute of Technology (Prayagraj)**, engineering at the crossroads of **Full-Stack Web Development, Artificial Intelligence**, and **Open-Source Systems**.
+I'm a 3rd-year **B.Tech Computer Science & Engineering** student at **United Institute of Technology (Prayagraj)**, engineering at the crossroads of **Full-Stack Web Development, Artificial Intelligence**, and **Open-Source Systems**.
 
 - 🌐 **Open Source Contributor:** Actively contributing to the **Wikimedia Foundation** (MediaWiki core, skins, extensions, and tooling) via Gerrit & Phabricator.
 - 💡 **Innovation & Startups:** Founder & active builder of **Prayagraj Rooms**, **Zynoq** (Custom AI Assistant), and **Vindhya Millets**.
